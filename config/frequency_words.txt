@@ -17,9 +17,6 @@ HarmonyOS
 bytedance
 张一鸣
 
-特斯拉
-马斯克
-
 微软
 Microsoft
 
@@ -57,19 +54,9 @@ ai
 国产
 中国
 
-美国
-日本
-韩国
-
-芯片
-光刻机
-
 科技
 
 核能
-
-水电站
-雅鲁藏布江
 
 新质生产力
 
@@ -90,8 +77,12 @@ ai
 
 godot
 
+springboot
 
-火星
-宇宙
-飞船
-航空
+go
+
+python
+cpython
+
+编程框架
+
