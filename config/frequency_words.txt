@@ -20,12 +20,6 @@ bytedance
 微软
 Microsoft
 
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
 谷歌
 google
 gemini
@@ -52,16 +46,10 @@ ai
 机器人
 
 国产
-中国
 
 科技
 
-核能
-
 新质生产力
-
-月球
-登月
 
 三农
 
